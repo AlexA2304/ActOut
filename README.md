@@ -31,7 +31,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-https://github.com/AlexA2304/ActOut/blob/main/ActOut/Assets.xcassets/Demo.mp4
+
+
+https://github.com/AlexA2304/ActOut/assets/132388989/52b78df3-63eb-42c2-97c6-e5888a02fa20
+
 
 
 
